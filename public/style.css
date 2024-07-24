@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    /* display:flex; */
+    
+}
+canvas{
+    
+    margin-top: 10px;
+    align-content: center;
+    margin-left: 380px;
+}
